@@ -1,2 +1,2 @@
-# hw3_simple_css
+# CSS Practice
 Starter code for simple css assignment
